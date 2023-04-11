@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 50.67,
+      "isPromo": false
+    },
+    {
+        "id": 2,
+        "name": "PC",
+        "price": 500.76,
+        "isPromo": true
+      },
+      {
+        "id": 3,
+        "name": "PC_test",
+        "price": 1000,
+        "isPromo": false
+      },
+      {
+        "id": 4,
+        "name": "Mouse",
+        "price": 10,
+        "isPromo": false
+      }
+  ]
